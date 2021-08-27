@@ -5,7 +5,7 @@
 
 # 📌 O que é? 
 
-Cópia do aplicativo **Spotify**
+Cópia da página inicial do aplicativo de música **Spotify**
 
 
 # 🛠 Tecnologias utilizadas 
@@ -13,6 +13,12 @@ Cópia do aplicativo **Spotify**
 * HTML
 * CSS
 * Bootstrap
+
+
+# 💻 Execução
+
+Para a execução necessita de um browser da sua escolha como **CHROME**
+
 
 <br></br>
 
